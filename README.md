@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyzhou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
-  <a href="https://vercel.com/kngja">  <!--热门语言，可修改-->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KngJa&layout=compact&langs_count=5&theme=algolia"/>  <!--可修改-->
+  <a href="https://github.com/KngJa">  <!--热门语言，可修改-->
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KngJa&layout=compact&langs_count=5&theme=algolia"/>  <!--可修改-->
   </a>
 </p>
 
