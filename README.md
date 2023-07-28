@@ -49,3 +49,5 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KngJa&theme=dark&layout=compact)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KngJa&theme=dark)
+
