@@ -1,11 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B41FF7&width=435&lines=Hello!!!Welcome+to+my+home+page!!!)
+<!--
 <p align="center">
   <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top margin:6px 4px">
   <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top margin:6px 4px">
   <img src="svg/dev/languages/go.svg" alt="go" style="vertical-align:top margin:6px 4px">
 </p>
+-->
 
-<h3  align="center"">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -46,8 +47,6 @@
 </p>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KngJa&theme=vue)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KngJa&theme=dark&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KngJa&theme=dark)
 
