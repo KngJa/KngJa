@@ -47,4 +47,5 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KngJa&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KngJa&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KngJa&theme=dark&layout=compact)
+
