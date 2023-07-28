@@ -48,5 +48,5 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KngJa&theme=vue)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KngJa&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KngJa&theme=dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KngJa&theme=dark&layout=compact)
 
