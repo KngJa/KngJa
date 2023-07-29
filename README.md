@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B41FF7&width=435&lines=Hello!!!Welcome+to+my+home+page!!!)
-
 <div align="center" >
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B41FF7&width=435&lines=Hello!!!Welcome+to+my+home+page!!!)
 
   💪 正在学习
   
