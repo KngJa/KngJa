@@ -1,7 +1,11 @@
 <div align="center" >
 
+  <!--
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B41FF7&width=435&lines=Hello!!!Welcome+to+my+home+page!!!)
+  -->
 
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B41FF7&width=435&lines=Hello+there!!!Welcome!!!)
+  
   💪 正在学习
   
   ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
