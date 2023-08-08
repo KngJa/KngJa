@@ -11,7 +11,7 @@
   ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
   ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-  ![Java Badge](https://img.shields.io/badge/Java-41CD52?logo=Java&logoColor=fff&style=flat)
+  ![Java Badge](https://img.shields.io/badge/Java-ED8B00?&logo=openjdk&logoColor=fff)
   ![Go Badge](https://img.shields.io/badge/Go-04b4e4?style=flat&logo=Go&logoColor=fff)
   ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
   ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
@@ -21,7 +21,9 @@
   
   🧠 计划学习
   
-  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuedotjs&logoColor=F7DF1E" alt="vuedotjs logo" title="vuedotjs" height="25" />
   ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
   ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
   ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
@@ -39,6 +41,10 @@
   ![IntelliJ%20IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-0c7cfc?style=flat&logo=IntelliJ%20IDEA&logoColor=fff)
   ![CLion Badge](https://img.shields.io/badge/CLion-24c4b4?style=flat&logo=CLion&logoColor=fff)
   ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+
+  🎮 偶尔放松
+  
+  ![NVIDIA Badge](https://img.shields.io/badge/NVIDIA-GTX3060Ti-76B900?&logo=nvidia&logoColor=white)
   
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,golang,idea,git" />
   <br>
@@ -91,3 +97,4 @@
   </a> 
 </p>
 -->
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kngja&theme=blue-green)
