@@ -16,6 +16,8 @@
   ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
   ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
   ![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=fff&style=flat)
+  ![Redis Badge](https://img.shields.io/badge/Redis-red?logo=redis&logoColor=fff&style=flat)
+  ![Docker Badge](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=fff&style=flat)
   
   🧠 计划学习
   
@@ -26,6 +28,7 @@
   ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
   ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
   ![Flutter Badge](https://img.shields.io/badge/Flutter-61DAFB?logo=Flutter&logoColor=fff&style=flat)
+  
   
   🧰 常用的工具
   
