@@ -21,9 +21,7 @@
   
   🧠 计划学习
   
-  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuedotjs&logoColor=F7DF1E" alt="vuedotjs logo" title="vuedotjs" height="25" />
+  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=fff&style=flat)
   ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
   ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
   ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
@@ -42,9 +40,7 @@
   ![CLion Badge](https://img.shields.io/badge/CLion-24c4b4?style=flat&logo=CLion&logoColor=fff)
   ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-  🎮 偶尔放松
-  
-  ![NVIDIA Badge](https://img.shields.io/badge/NVIDIA-GTX3060Ti-76B900?&logo=nvidia&logoColor=white)
+  🎮 爱死Rainbow Six
   
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,golang,idea,git" />
   <br>
@@ -55,9 +51,11 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 62px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-
+  
+  
 </div>
 <!--
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kngja&theme=blue-green)
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -97,4 +95,3 @@
   </a> 
 </p>
 -->
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kngja&theme=blue-green)
