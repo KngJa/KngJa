@@ -36,7 +36,7 @@
   ![CLion Badge](https://img.shields.io/badge/CLion-24c4b4?style=flat&logo=CLion&logoColor=fff)
   ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-  <h1>🎮 爱死Rainbow Six</h1>
+  <h1>🎮 爱死Rainbow Six Siege</h1>
   
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,golang,idea,git" />
   <br>
