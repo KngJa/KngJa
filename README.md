@@ -1,3 +1,4 @@
+<!--
 <div align="center" >
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B41FF7&width=435&lines=Hi+there!!!Welcome!!!)
@@ -36,7 +37,7 @@
   ![CLion Badge](https://img.shields.io/badge/CLion-24c4b4?style=flat&logo=CLion&logoColor=fff)
   ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-  # 🎮 爱死Rainbow Six Siege
+# 🎮 爱死Rainbow Six Siege
   
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,golang,idea,git" />
   
@@ -50,3 +51,5 @@
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
   
 </div>
+-->
+# 🎮 爱死Rainbow Six Siege
